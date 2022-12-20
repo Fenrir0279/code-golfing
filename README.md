@@ -1,5 +1,6 @@
 # code-golfing
-### [Code golf](https://en.wikipedia.org/wiki/Code_golf) is a type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that solves a certain problem
+### [Code golf](https://en.wikipedia.org/wiki/Code_golf) is a type of recreational computer programming competition in which participants strive to achieve the shortest possible source code that solves a certain problem.
+The questions solved in this repository are primarily from [Project Euler](https://www.projecteuler.net) and [Rosetta Code](https://rosettacode.org)
 
 ###### [Collatz Conjecture](https://github.com/Fenrir0279/code-golfing/blob/main/collatz.py)
 The Collatz conjecture is one of the most famous unsolved problems in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1.<sup>[[1]](https://en.wikipedia.org/wiki/Collatz_conjecture)</sup>
@@ -30,3 +31,11 @@ Hence the difference between the sum of the squares of the first ten natural num
         3025 - 385 = 2640
 
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.<sup>[[4]](https://projecteuler.net/problem=6)</sup>
+
+###### [Pell numbers](https://github.com/Fenrir0279/code-golfing/blob/main/pell_numbers.py)
+The Pell numbers: 0, 1, 2, 5, 12, 29, 70, etc., are defined by the recurrence relation[[5]](https://rosettacode.org/wiki/Pell_numbers)<br>
+    P0 = 0 (0th term of P)<br>
+    P1 = 1 (1st term of P)<br>
+    Pn = 2 × Pn-1 + Pn-2 (nth term of P)
+
+
